@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<testMain>
+	
+
+	<testSub1>
+		<testAttribute>name</testAttribute>
+		<testAttribute>id</testAttribute>
+		<testAttribute>address</testAttribute>
+		<testAttribute>something<testAttribute>
+	</testSub1>
+</testMain>
