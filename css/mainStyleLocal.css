@@ -1,9 +1,19 @@
+/*Base HTML*/
+body
+{
+	background-color: #F5FFFA !important;
+}
+
+/*Custom*/
 .mainText
 {
 	font-family: 'Open Sans', sans;
 }
 
+
+/*Bootstrap*/
 .header
 {
 	background-color: lightblue;
 }
+
