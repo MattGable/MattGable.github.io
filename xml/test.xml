@@ -1,10 +1,77 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8" ? content-type="text/xml">
 
-<testMain>
-	<testSub1>
-		<testAttribute>name</testAttribute>
-		<testAttribute>id</testAttribute>
-		<testAttribute>address</testAttribute>
-		<testAttribute>something</testAttribute>
-	</testSub1>
-</testMain>
+<!--Temporary data used for assignments, etc.-->
+<Semester>
+	<year>2016</year>
+	<term>Fall</term>
+	<classes>
+		<class>
+			<dept>CS</dept>
+			<course>221</course>
+			<crn>1581</crn>
+			<name>Data Structures</name>
+			<days>TR</days>
+			<time>9 A.M.</time>
+			<campus>main</campus>
+			<room>C127</room>
+			<credits>4</credits>
+			<todo>
+				<quiz>5</quiz>
+				<exam>3</exam>
+				<reading>15</reading>
+				<homework>5</homework>
+			</todo>
+		</class>
+		<class>
+			<dept>CS</dept>
+			<course>301</course>
+			<crn>1565</crn>
+			<name>Database Theory and Design</name>
+			<days>MW</days>
+			<time>9 A.M.</time>
+			<campus>main</campus>
+			<room>C217</room>
+			<credits>3</credits>
+			<todo>
+				<quiz>5</quiz>
+				<exam>3</exam>
+				<reading>15</reading>
+				<homework>5</homework>
+			</todo>
+		</class>
+		<class>
+			<dept>CS</dept>
+			<course>302</course>
+			<crn>1585</crn>
+			<name>System Analysis and Design</name>
+			<days>NA</days>
+			<time>NA</time>
+			<campus>online</campus>
+			<room>NA</room>
+			<credits>3</credits>
+			<todo>
+				<quiz>5</quiz>
+				<exam>3</exam>
+				<reading>15</reading>
+				<homework>5</homework>
+			</todo>
+		</class>
+		<class>
+			<dept>CS</dept>
+			<course>320</course>
+			<crn>1579</crn>
+			<name>Extensible Markup Language</name>
+			<days>T</days>
+			<time>7 P.M.</time>
+			<campus>main</campus>
+			<room>C123</room>
+			<credits>3</credits>
+			<todo>
+				<quiz>5</quiz>
+				<exam>3</exam>
+				<reading>15</reading>
+				<homework>5</homework>
+			</todo>
+		</class>
+	</classes>
+</Semester>
