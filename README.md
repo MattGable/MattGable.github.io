@@ -11,6 +11,7 @@ Credits:
 		Unsplash (unsplash.com)
 			Worthy of Elegance
 			Illya Pavlov
+			Pawel Kadysz
 
 
 	Icons:
